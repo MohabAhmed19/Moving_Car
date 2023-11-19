@@ -1,4 +1,4 @@
-# Install script for directory: /home/mohab/esp/car1/main
+# Install script for directory: /home/mohab/esp/motor_control/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
