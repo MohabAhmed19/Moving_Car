@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "/home/mohab/esp/motor_control/build/CMakeFiles/bootloader"
+			"file" : "/home/mohab/esp/Moving_Car/motor_control/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "/home/mohab/esp/motor_control/build/CMakeFiles/bootloader.rule"
+			"file" : "/home/mohab/esp/Moving_Car/motor_control/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "/home/mohab/esp/motor_control/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "/home/mohab/esp/Moving_Car/motor_control/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "/home/mohab/esp/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "/home/mohab/esp/Moving_Car/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "/home/mohab/esp/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "/home/mohab/esp/Moving_Car/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "/home/mohab/esp/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "/home/mohab/esp/Moving_Car/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "/home/mohab/esp/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "/home/mohab/esp/Moving_Car/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "/home/mohab/esp/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "/home/mohab/esp/Moving_Car/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "/home/mohab/esp/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "/home/mohab/esp/Moving_Car/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "/home/mohab/esp/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "/home/mohab/esp/Moving_Car/motor_control/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

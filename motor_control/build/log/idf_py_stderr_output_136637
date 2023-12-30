@@ -1,0 +1,91 @@
+[0;33m--- esp-idf-monitor 1.2.1 on /dev/ttyUSB0 115200 ---[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H ---[0m
+[0;33m0x40080400: _init at ??:?
+[0m
+[0;33m0x40081034: call_start_cpu1 at /home/mohab/esp/esp-idf/components/esp_system/port/cpu_start.c:178
+[0m
+[0;33m0x400da7b7: task_wdt_timeout_handling at /home/mohab/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400da93e: task_wdt_isr at /home/mohab/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f85: _xt_lowint1 at /home/mohab/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x40008541: ets_delay_us in ROM
+[0m
+[0;33m0x400d58a8: distance_measure_cm at /home/mohab/esp/Moving_Car/motor_control/components/ultrasonic/ultrasonic.c:21
+[0m
+[0;33m0x400d569f: app_main at /home/mohab/esp/Moving_Car/motor_control/main/main.c:58
+[0m
+[0;33m0x400e7610: main_task at /home/mohab/esp/esp-idf/components/freertos/app_startup.c:208 (discriminator 13)
+[0m
+[0;33m0x40087c35: vPortTaskWrapper at /home/mohab/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400da7b7: task_wdt_timeout_handling at /home/mohab/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400da93e: task_wdt_isr at /home/mohab/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f85: _xt_lowint1 at /home/mohab/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x4000c050: xthal_get_ccount in ROM
+[0m
+[0;33m0x40008544: ets_delay_us in ROM
+[0m
+[0;33m0x400d58a8: distance_measure_cm at /home/mohab/esp/Moving_Car/motor_control/components/ultrasonic/ultrasonic.c:21
+[0m
+[0;33m0x400d569f: app_main at /home/mohab/esp/Moving_Car/motor_control/main/main.c:58
+[0m
+[0;33m0x400e7610: main_task at /home/mohab/esp/esp-idf/components/freertos/app_startup.c:208 (discriminator 13)
+[0m
+[0;33m0x40087c35: vPortTaskWrapper at /home/mohab/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400da7b7: task_wdt_timeout_handling at /home/mohab/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400da93e: task_wdt_isr at /home/mohab/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f85: _xt_lowint1 at /home/mohab/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x4000c053: xthal_get_ccount in ROM
+[0m
+[0;33m0x40008544: ets_delay_us in ROM
+[0m
+[0;33m0x400d5898: distance_measure_cm at /home/mohab/esp/Moving_Car/motor_control/components/ultrasonic/ultrasonic.c:19
+[0m
+[0;33m0x400d569f: app_main at /home/mohab/esp/Moving_Car/motor_control/main/main.c:58
+[0m
+[0;33m0x400e7610: main_task at /home/mohab/esp/esp-idf/components/freertos/app_startup.c:208 (discriminator 13)
+[0m
+[0;33m0x40087c35: vPortTaskWrapper at /home/mohab/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400da7b7: task_wdt_timeout_handling at /home/mohab/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400da93e: task_wdt_isr at /home/mohab/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f85: _xt_lowint1 at /home/mohab/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x40008541: ets_delay_us in ROM
+[0m
+[0;33m0x400d58a8: distance_measure_cm at /home/mohab/esp/Moving_Car/motor_control/components/ultrasonic/ultrasonic.c:21
+[0m
+[0;33m0x400d569f: app_main at /home/mohab/esp/Moving_Car/motor_control/main/main.c:58
+[0m
+[0;33m0x400e7610: main_task at /home/mohab/esp/esp-idf/components/freertos/app_startup.c:208 (discriminator 13)
+[0m
+[0;33m0x40087c35: vPortTaskWrapper at /home/mohab/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x400da7b7: task_wdt_timeout_handling at /home/mohab/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x400da93e: task_wdt_isr at /home/mohab/esp/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40082f85: _xt_lowint1 at /home/mohab/esp/esp-idf/components/xtensa/xtensa_vectors.S:1236
+[0m
+[0;33m0x40008547: ets_delay_us in ROM
+[0m
+[0;33m0x400d5898: distance_measure_cm at /home/mohab/esp/Moving_Car/motor_control/components/ultrasonic/ultrasonic.c:19
+[0m
+[0;33m0x400d569f: app_main at /home/mohab/esp/Moving_Car/motor_control/main/main.c:58
+[0m
+[0;33m0x400e7610: main_task at /home/mohab/esp/esp-idf/components/freertos/app_startup.c:208 (discriminator 13)
+[0m
+[0;33m0x40087c35: vPortTaskWrapper at /home/mohab/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0m

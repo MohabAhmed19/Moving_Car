@@ -4573,6 +4573,24 @@
     {
         "children": [
             {
+                "children": [],
+                "depends_on": null,
+                "help": "Enable this option, the example will print a string at runtime with a specific format,\nwhich can be parsed by the Serial Studio tool.\nWith the \"serial-studio-dashboard.json\" template file provided in this example,\nuser can observe the speed in a curve window in the Serial Studio.",
+                "id": "SERIAL_STUDIO_DEBUG",
+                "name": "SERIAL_STUDIO_DEBUG",
+                "range": null,
+                "title": "Enable log that can be parsed by Serial Studio",
+                "type": "bool"
+            }
+        ],
+        "depends_on": null,
+        "id": "example-configuration",
+        "title": "Example Configuration",
+        "type": "menu"
+    },
+    {
+        "children": [
+            {
                 "children": [
                     {
                         "children": [],

@@ -1,4 +1,4 @@
-/* * Data converted from /home/mohab/esp/motor_control/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/mohab/esp/Moving_Car/motor_control/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded
