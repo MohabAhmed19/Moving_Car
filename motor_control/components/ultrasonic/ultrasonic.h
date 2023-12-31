@@ -15,8 +15,8 @@ typedef const struct
     uint8_t echo;
 } ultrasonic_s;
 
-void Ultrasonic_init(const ultrasonic_s *ultra);
+void ultrasonic_init(const ultrasonic_s *ultra);
 
-uint8_t distance_measure_cm(const ultrasonic_s *ultra, int *distance);
+uint8_t ultrasonic_distance_measure_cm(const ultrasonic_s *ultra, int *distance);
 
 #endif /* __ULTRASONIC_H__ */

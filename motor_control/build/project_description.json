@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "motor_control",
-    "project_version":    "c6dc5b1-dirty",
+    "project_version":    "b858fbc-dirty",
     "project_path":       "/home/mohab/esp/Moving_Car/motor_control",
     "idf_path":           "/home/mohab/esp/esp-idf",
     "build_dir":          "/home/mohab/esp/Moving_Car/motor_control/build",

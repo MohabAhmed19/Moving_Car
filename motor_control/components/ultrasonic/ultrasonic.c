@@ -1,6 +1,6 @@
 #include "ultrasonic.h"
 
-void Ultrasonic_init(const ultrasonic_s *ultra)
+void ultrasonic_init(const ultrasonic_s *ultra)
 {
     gpio_set_direction(ultra->trigger, GPIO_MODE_OUTPUT);
     gpio_set_direction(ultra->echo, GPIO_MODE_INPUT);
@@ -8,7 +8,7 @@ void Ultrasonic_init(const ultrasonic_s *ultra)
     gpio_set_level(ultra->trigger, 0);
 }
 
-uint8_t distance_measure_cm(const ultrasonic_s *ultra, int *distance)
+uint8_t ultrasonic_distance_measure_cm(const ultrasonic_s *ultra, int *distance)
 {
     int64_t start, end;
     if (gpio_get_level(ultra->echo) == 1)

@@ -50,11 +50,11 @@ void app_main(void)
 		.left_motor = motor2,
 		.left_motor_config = motor2_config};
 
-	Ultrasonic_init(&ultra_argument);
+	ultrasonic_init(&ultra_argument);
 	car_init(&mcpwm_config, &car1);
 	while (1)
 	{
-		if (distance_measure_cm(&ultra_argument, &distance) == 0)
+		if (ultrasonic_distance_measure_cm(&ultra_argument, &distance) == 0)
 		{
 			printf("distance is %d\n", distance);
 			if (distance > 200)
